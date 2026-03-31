@@ -93,10 +93,11 @@ All scripts come designed around Ubuntu or Debian Linux systems. When working on
 ## Repository Structure
 ```
 oss-audit-[rollnumber]/
+└── README.md
 ├── script1_system_identity.sh
 ├── script2_package_inspector.sh
 ├── script3_disk_auditor.sh
 ├── script4_log_analyzer.sh
 ├── script5_manifesto_generator.sh
-└── README.md
+
 ```
